@@ -1,0 +1,19 @@
+.intro-button{
+	align-items: center;
+
+}
+
+.astronomy-name{
+				padding-top: 5px;
+				padding-left: -400px;
+}
+.jumbotron{
+
+				background-image: url("https://i.ytimg.com/vi/Dk3V64ZSsEI/maxresdefault.jpg")
+				background-size: cover;
+		}
+
+.navbar-button {
+					padding-top: 20px;
+	                align-items: right;
+}
